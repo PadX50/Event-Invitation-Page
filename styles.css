@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #e8f4f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+main {
+    font-family: "Moderustic", sans-serif;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 500px;
+    margin: 20px;
+    background-color: #ffffff;
+}
+
+button {
+    background-color: rgb(87, 184, 84);
+    padding: 15px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: 1px solid rgb(87, 184, 84);
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+p {
+    line-height: 20px;
+}
